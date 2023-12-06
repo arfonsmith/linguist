@@ -129,7 +129,7 @@ module Linguist
 
       # Scope of the search for modelines
       # Number of lines to check at the beginning and at the end of the file
-      SEARCH_SCOPE = 5
+      SEARCH_SCOPE = 10
 
       # Public: Detects language based on Vim and Emacs modelines
       #
